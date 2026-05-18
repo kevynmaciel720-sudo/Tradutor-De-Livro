@@ -1,1 +1,1 @@
-pip install streamlit pdfplumber deep-translator
+streamlit pdfplumber deep-translator
